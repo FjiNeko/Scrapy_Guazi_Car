@@ -4,7 +4,7 @@
 - 项目名：爬取瓜子二手车信息
 - 项目命名： guazi
 - 项目主要语言： Python 3.12.0
-- 项目主要使用软件: WIUNDOW TERMINAL,Pycharm 2023.2.4 professonal
+- 项目主要使用软件: WINDOWs TERMINAL,Pycharm 2023.2.4 professonal
 - 项目使用第三方模块: scrapy
 - 项目组: 仅个人
 - 文件主要文件:
